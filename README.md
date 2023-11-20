@@ -1,2 +1,8 @@
 # Hotel
-Le projet consiste en la création d’un système permettant la réservation et l’annulation de chambres dans plusieurs hôtels via un client web. Inscription et connexion à un compte utilisateur. Serveur de bases de données utilisant le SGBDR PostgreSQL. Un serveur web avec une connexion en PHP vers le serveur de bases de données. Affichage et filtrage de la recherche répondant aux critères sélectionnés par l’utilisateur. Projet de synthèse du module Base de données de L3. 
+
+The project involves creating a system for reserving and canceling rooms in multiple hotels through a web client. 
+This includes user account registration and login. 
+The project utilizes a database server using the relational database management system PostgreSQL. 
+There is also a web server with PHP connecting to the database server. 
+The system allows for displaying and filtering search results based on user-selected criteria. 
+Licence 3 project made for the Database cursus at CY Paris Université.
