@@ -1,4 +1,4 @@
-# Hotel
+# Hotel Reservation
 
 The project involves creating a system for reserving and canceling rooms in multiple hotels through a web client.  
 This includes user account registration and login.  
