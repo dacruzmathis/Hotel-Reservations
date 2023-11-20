@@ -6,3 +6,4 @@ The project utilizes a database server using the relational database management 
 There is also a web server with PHP connecting to the database server.  
 The system allows for displaying and filtering search results based on user-selected criteria.  
 Licence 3 project made for the Database cursus at CY Paris Université.  
+Made with Pasbeau Arthur and Zitouni Melissa.
